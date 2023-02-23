@@ -1,4 +1,4 @@
-### Olá viajante! Eu sou o Gabriel Palma
+### Olá! Eu sou o Gabriel Palma
 
 
 - 🛠️ Trabalhando para me tornar um Dev Jr
