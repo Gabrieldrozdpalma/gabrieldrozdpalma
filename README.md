@@ -2,7 +2,7 @@
 
 
 - 🛠️ Trabalhando para me tornar um Dev Jr
-- ☕ Estudando Java
+- ☕ Formação Full Stack -> Java e Angular
 - 📫 Você pode me contatar em: Gabrield.palma@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldrozdpalma&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
