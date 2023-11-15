@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Gabriel Palma
 
 
-- 🛠️ Trabalhando para me tornar um Dev Jr
-- ☕ Foco no Back-End -> Java
+- 🛠️ Dev em construção 🛠️ 
+- ☕ Estudando PHP / Laravel
 - 📫 Você pode me contatar em: Gabrield.palma@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldrozdpalma&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
